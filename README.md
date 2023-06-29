@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abdulaziz67
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Python, Power BI, Excel
-- I am excited to get a job as Data Analyst
+- 👋 Hi, I am Abdulaziz
+- 👀 Interested in Data Analysis
+- 🌱 Currently learning SQL, Python, Power BI, Excel
+- ✨ Excited to get a job as Data Analyst
 
 <!---
 Abdulaziz67/Abdulaziz67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
